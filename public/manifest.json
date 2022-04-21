@@ -23,7 +23,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://manaba.tsukuba.ac.jp/*"],
+      "matches": ["https://manaba.ibaraki.ac.jp/*"],
       "run_at": "document_start",
       "js": ["contentScript.js"]
     }
